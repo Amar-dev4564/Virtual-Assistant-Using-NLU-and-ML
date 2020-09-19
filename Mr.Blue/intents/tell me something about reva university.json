@@ -1,0 +1,55 @@
+{
+  "id": "7798dcc7-2e29-4bf2-a879-ba571751147a",
+  "name": "tell me something about reva university",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ae246a4b-99eb-4373-8b34-84659ff6c034",
+          "name": "unit-information-name",
+          "required": true,
+          "dataType": "@sys.unit-information-name",
+          "value": "$unit-information-name.original",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Reva university"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you asking about $unit-information-name                                                                      The REVA University is a private state University located in Bangalore, Karnataka. The Reva Group of Educational Institutions was established in 2002, managed by Rukmini Educational Charitable Trust. In 2004 it was taken over by Rukmini Educational Charitable Trust led by Dr. P. Shyama Raju more..information www.reva.edu.in"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

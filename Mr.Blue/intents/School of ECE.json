@@ -1,0 +1,53 @@
+{
+  "id": "aede2174-7071-4d12-893e-72c7a806f02d",
+  "name": "School of ECE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "364104f9-5be8-4bfd-8acd-ddda41e4c525",
+          "name": "ECE",
+          "required": false,
+          "dataType": "@ECE",
+          "value": "$ECE",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Amar Is working on ECE.more..information visit www.reva.edu.in",
+            "Electronics and communication engineering department is providing support through a team called FORCE .There are 10 clubs for Electronics and communication engineering department.for more..information visit www.reva.edu.in",
+            "The School of Electronics and Communication \nEngineering are designed to focus on technology that underpins Signal \nProcessing, Network Technology, Data Communication,Analog and Radio Frequency Electronic Circuits, Computer and Digital Systems, Computer Vision and Image Processing,etc.more.for information visit www.reva.edu.in",
+            "The School of Electronics and Communication \nEngineering are designed to focus on technology that underpins Control Systems, Robotics, Electromagnetic, Remote Sensing,  Microwave engineering, Electronics System Design, Digital Signal Processing, VLSI, Computer Communication/Satellite Communication/Optical Communication, 5G/Smart Antenna, Embedded System and IoT, etc.for more..information visit www.reva.edu.in"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

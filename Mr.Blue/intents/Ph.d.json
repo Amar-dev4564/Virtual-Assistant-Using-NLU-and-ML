@@ -1,0 +1,35 @@
+{
+  "id": "2a0b7735-0e46-413f-ad8b-598c838c4e6b",
+  "name": "Ph.d",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "PhD courses available in reva university are: Number 1. PhD in Engineering,\n2.Phd in Architecture, 3. Phd in Arts and Humanities,\n4.PhD in Commerce, 5.PhD in Management Studies, 6.PhD in Science and Technology, 7.Phd in legal studies."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "d4e4b8d1-9907-49d5-9be6-42012cfb487e",
+  "name": "sys.unit-volume-name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

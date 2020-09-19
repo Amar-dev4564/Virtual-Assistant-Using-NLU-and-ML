@@ -1,0 +1,77 @@
+[
+  {
+    "id": "5010830e-7edd-42dd-97bf-5f16f8b2e07b",
+    "data": [
+      {
+        "text": "tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "reva",
+        "meta": "@sys.unit-information-name",
+        "alias": "unit-information-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ed444e8-6e2f-42d1-87eb-1f11fcc973ae",
+    "data": [
+      {
+        "text": "about ",
+        "userDefined": false
+      },
+      {
+        "text": "reva",
+        "meta": "@sys.unit-information-name",
+        "alias": "unit-information-name",
+        "userDefined": false
+      },
+      {
+        "text": " university",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "245e928b-3519-4627-b9d3-ee804477f238",
+    "data": [
+      {
+        "text": "about reva",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "542b92f6-72fc-4cdf-bd15-e857dcdf99a7",
+    "data": [
+      {
+        "text": "tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "reva university",
+        "meta": "@sys.unit-information-name",
+        "alias": "unit-information-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

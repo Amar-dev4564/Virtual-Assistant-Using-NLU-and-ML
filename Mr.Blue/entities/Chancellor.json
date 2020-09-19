@@ -1,0 +1,9 @@
+{
+  "id": "5d24f16d-74d7-4793-99a6-8f53744b8f29",
+  "name": "Chancellor",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

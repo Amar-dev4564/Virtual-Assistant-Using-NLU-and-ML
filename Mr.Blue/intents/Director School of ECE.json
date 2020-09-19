@@ -1,0 +1,50 @@
+{
+  "id": "1f24b690-a32a-489f-95ed-83d0ac92e196",
+  "name": "Director School of ECE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "32ef1093-8e1c-41e2-b712-90f7fee7f19a",
+          "name": "directorece",
+          "required": true,
+          "dataType": "@directorece",
+          "value": "$directorece",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dr. Rajashekhar C. Biradar has 29 years of teaching and research experience. He has published 51 papers in peer reviewed national and international journals, 62 papers in reputed national and international conferences and 3 book chapters.\nHe is involved in research which covers various sorts of wireless networks such as ad hoc networks, sensor networks, mesh networks, network security, smart antennas, Index modulation, etc.He has been listed in Marquis\u0027 Who\u0027s Who in the World (2012 Edition), USA and Top 100 Engineers by IBC, UK, Many more..!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

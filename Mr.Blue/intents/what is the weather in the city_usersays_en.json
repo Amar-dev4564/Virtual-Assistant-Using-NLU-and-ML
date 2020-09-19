@@ -1,0 +1,21 @@
+[
+  {
+    "id": "a6707d90-676e-4f18-b9f9-5010e8d4de0d",
+    "data": [
+      {
+        "text": "what is the weather in the ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

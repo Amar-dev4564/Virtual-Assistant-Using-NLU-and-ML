@@ -1,0 +1,64 @@
+{
+  "id": "db7fe261-3310-4844-a4ef-4fda2f49d90a",
+  "name": "Admission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23f9ddbf-53c3-4b09-a583-d240aa84aa9f",
+          "name": "unit-information-name",
+          "required": false,
+          "dataType": "@sys.unit-information-name",
+          "value": "$unit-information-name",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ea7451db-1d70-4a55-a3aa-79ab226fea2a",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Firstly Based on merit obtained in REVA Common Entrance Test, Secondly.Based on Entrance examinations conducted by GOVERNMENT OF KARNATAKA, C E T, COMED-K, PG C E T. \u0026 Recognized agencies like, J E E MAINS, GATE, CAT, MAT,  PG CET. And Finally   based on management quota. FOR MORE INFORMATION REGARDING ADMISSION reach it admissions@reva.edu.in  and our team will respond to Your queries  within 48 HOURS."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

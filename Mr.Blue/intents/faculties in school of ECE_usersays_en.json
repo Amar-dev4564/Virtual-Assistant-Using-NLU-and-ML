@@ -1,0 +1,54 @@
+[
+  {
+    "id": "75b527ad-76c7-4ae5-9970-83f4709fd271",
+    "data": [
+      {
+        "text": "faculties in ece",
+        "meta": "@facultiesece",
+        "alias": "faculties",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d01fa61c-77a9-40e9-890a-7213cf7fb669",
+    "data": [
+      {
+        "text": "faculties in school of ECE",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f52f2bd4-d632-403b-93fc-4b64e7555ffb",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "faculties",
+        "meta": "@facultiesece",
+        "alias": "faculties",
+        "userDefined": true
+      },
+      {
+        "text": " are there in school of ECE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

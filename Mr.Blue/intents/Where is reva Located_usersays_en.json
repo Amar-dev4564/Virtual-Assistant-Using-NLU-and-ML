@@ -1,0 +1,80 @@
+[
+  {
+    "id": "140199f3-9386-40e2-bbe3-32b312aafbad",
+    "data": [
+      {
+        "text": "what is the location of reva ",
+        "userDefined": false
+      },
+      {
+        "text": "university",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2be97ee2-68a2-4045-b42f-04fe6663f807",
+    "data": [
+      {
+        "text": "what is the address of reva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6a2c682-cc6b-4612-b145-28f1667d3609",
+    "data": [
+      {
+        "text": "wher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adfba689-3669-4fc7-9807-b43e26871a4c",
+    "data": [
+      {
+        "text": "location of reva",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aedd28c9-37ca-47d0-ae49-bd15ad4d4eb7",
+    "data": [
+      {
+        "text": "Where is Reva ",
+        "userDefined": false
+      },
+      {
+        "text": "Located",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

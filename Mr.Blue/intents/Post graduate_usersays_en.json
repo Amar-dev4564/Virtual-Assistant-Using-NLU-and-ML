@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1dc2cbe9-e02a-401c-8d22-cf928d34cd77",
+    "data": [
+      {
+        "text": "what are the courses available in post graduation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7bc59a6-f48c-4d1a-80fd-c91a63641a4c",
+    "data": [
+      {
+        "text": "what are the courses in post graduction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ec753cc-ba5a-4aef-8ffe-5277ba320763",
+    "data": [
+      {
+        "text": "what are the course in post graduation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7d50c8b-698a-4daa-a006-501939b58d38",
+    "data": [
+      {
+        "text": "courses in post graduation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "572e7f1b-65d4-4dca-8aa2-1c4843615f6e",
+    "data": [
+      {
+        "text": "course in post graduation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c057f577-39f8-4434-9e14-fdb9f47269b7",
+    "data": [
+      {
+        "text": "what are the course available in post graduation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e5b71cc-014a-494f-bd9a-e20aea97f5bc",
+    "data": [
+      {
+        "text": "what are streams available in post ",
+        "userDefined": false
+      },
+      {
+        "text": "graduation",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

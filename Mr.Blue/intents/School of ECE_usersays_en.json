@@ -1,0 +1,40 @@
+[
+  {
+    "id": "11f4fda3-7897-4ac7-bed9-1177b5a75281",
+    "data": [
+      {
+        "text": "information about ",
+        "userDefined": false
+      },
+      {
+        "text": "Electronics and Communication",
+        "meta": "@ECE",
+        "alias": "ECE",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de0fdbdc-e4e4-46c2-bad2-e53106b2d268",
+    "data": [
+      {
+        "text": "Information about ",
+        "userDefined": false
+      },
+      {
+        "text": "ECE",
+        "meta": "@ECE",
+        "alias": "ECE",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

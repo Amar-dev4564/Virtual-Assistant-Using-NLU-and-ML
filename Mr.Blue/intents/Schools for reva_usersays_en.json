@@ -1,0 +1,117 @@
+[
+  {
+    "id": "887e70a2-1e77-4331-ac3c-7a5a07f9d99c",
+    "data": [
+      {
+        "text": "what are available engineering courses in reva university",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9307a689-817a-469e-8038-992bb135abf1",
+    "data": [
+      {
+        "text": "what are the Engineering Department in reva university",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be551d87-75d4-4b9e-8103-ca99e8947954",
+    "data": [
+      {
+        "text": "Engineering courses in Reva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a83861d-ce6c-4f4f-92a9-519bbb42b2b5",
+    "data": [
+      {
+        "text": "Engineering courses in reva university",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c2a5fa4-696a-4471-bd42-bdbdead4124a",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering courses",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in reva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82a1196d-d0ea-4202-a26b-ced59ee5496b",
+    "data": [
+      {
+        "text": "what are the Engineering Department in reva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d94b831-43bb-4929-8e04-3d88b8a7b840",
+    "data": [
+      {
+        "text": "what are available engineering ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.any",
+        "alias": "course",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "reva",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

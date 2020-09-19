@@ -1,0 +1,9 @@
+{
+  "id": "44c77fc0-a8de-4a95-b5a6-22e0cd8f49b3",
+  "name": "ECE",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "0bb9d784-d7a2-4a9e-bba3-c2026eb29749",
+    "data": [
+      {
+        "text": " P. Shyama Raju",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58da49a5-f6ca-4cc7-9072-8f6d77c2f2d7",
+    "data": [
+      {
+        "text": "Chancellor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fbb5b06-02a5-4fff-a21b-23a0f12839f5",
+    "data": [
+      {
+        "text": "name of a Chancellor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8395b8e2-abcc-4279-baaa-7cb7fb2ab3ca",
+    "data": [
+      {
+        "text": "Chancellor ",
+        "userDefined": false
+      },
+      {
+        "text": "Reva university",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6695199b-b306-4615-b2e0-3f3fab5f4cbe",
+    "data": [
+      {
+        "text": "Who is the founder of ",
+        "userDefined": false
+      },
+      {
+        "text": "REVA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ae10a1f-0b9e-4458-b215-4d7de0c4ac52",
+    "data": [
+      {
+        "text": "Chancellor",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "REVA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44b1a2aa-a56b-4799-a31a-4006147a8ed1",
+    "data": [
+      {
+        "text": "What is the name of Chancellor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

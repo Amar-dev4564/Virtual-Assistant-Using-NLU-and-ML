@@ -1,0 +1,14 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I\u0027m Mr Blue [Reva\u0027s Assistant]"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "Not a issue.!"
+    ]
+  }
+]

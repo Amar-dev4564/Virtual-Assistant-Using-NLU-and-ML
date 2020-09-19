@@ -1,0 +1,51 @@
+{
+  "id": "1281f122-eedd-405e-9bc2-5e8bf8d3846d",
+  "name": "faculties in school of ECE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c83d1cee-6f96-4a4b-8953-8654768ad773",
+          "name": "faculties",
+          "required": true,
+          "dataType": "@facultiesece",
+          "value": "$faculties",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are 59 faculties in school of ECE",
+            "There are 59 faculties in school of Electronics and Communication"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

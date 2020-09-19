@@ -1,0 +1,54 @@
+{
+  "id": "e8f84775-2f71-44eb-81da-013208973bfa",
+  "name": "Dr Manjula R B",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ed63af37-200b-4950-904e-f2c6d0c086df",
+          "name": "Drmanjula",
+          "required": true,
+          "dataType": "@DrManjula",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Dr.Manjula R. Bharamagoudra has 15+ years of Teaching, She has been awarded with best Innovator Entrepreneur from, University Industry Interaction Centre REVA University.  Research and Administrative experience.She has published 12 papers in peer reviewed national and international journals, 18 papers in reputed national and international conferences and 2 book chapter/book,and many has published in Google Scholar .She is a member IETE (IETE) India, member ISTE (MISTE) India and member of IEEE (MIEEE), USA and is actively involved in motivating students and scholars to work on Innovative projects and product development."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For more information contact school of ECE REVA university"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

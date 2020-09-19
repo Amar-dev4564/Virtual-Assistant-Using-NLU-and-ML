@@ -1,0 +1,54 @@
+{
+  "id": "44d1c9b7-032c-4ec4-b9c9-27d4af0b1257",
+  "name": "Schools for reva",
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "484a356a-fa23-46af-ada9-85afb5785d9b",
+          "name": "course",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$course.original",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "This are specialized courses available in Reva University:"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This are specialized engineering courses available in Reva University:number 1.School of Electronics and Communication Engineering, 2.Computing and Information Technology, 3.Electrical and Electronics Engineering, 4.Civil Engineering, 5.Mechanical Engineering, 6.Multidisciplinary Studies."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

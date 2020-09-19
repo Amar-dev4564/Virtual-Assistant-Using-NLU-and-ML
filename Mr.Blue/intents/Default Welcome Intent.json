@@ -1,0 +1,42 @@
+{
+  "id": "1c7150e9-218e-4205-a824-b5f0e7c72b17",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! I\u0027m Mr Blue [Reva\u0027s Smart Assistant]",
+            "Hello! I\u0027m Mr Blue [Reva\u0027s Smart Assistant]",
+            "Greetings! I\u0027m Mr Blue [Reva\u0027s Smart Assistant] How can I assist?",
+            "I\u0027m Mr Blue [Reva\u0027s Smart Assistant] How can i help you.?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

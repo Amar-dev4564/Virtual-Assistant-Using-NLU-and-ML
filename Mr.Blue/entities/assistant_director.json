@@ -1,0 +1,9 @@
+{
+  "id": "41be7d98-09b9-4507-910f-db7837a1afce",
+  "name": "assistant_director",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

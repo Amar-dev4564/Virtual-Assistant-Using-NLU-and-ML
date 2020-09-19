@@ -1,0 +1,227 @@
+[
+  {
+    "id": "5a6e7f3d-44bf-4e1c-8246-482e8c7d55dd",
+    "data": [
+      {
+        "text": "how can we get admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "reva university",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4320a61f-7ab9-4ec2-b5b6-410965445f45",
+    "data": [
+      {
+        "text": "how can we get admission in reva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e901f699-c428-421c-8afd-30f68e937bd0",
+    "data": [
+      {
+        "text": "what basis admission are given in ",
+        "userDefined": false
+      },
+      {
+        "text": "reva university",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c689414d-0654-45e2-9367-d3d0fcdac92b",
+    "data": [
+      {
+        "text": "what basis admission are given in reva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f0d3ac1-d5c5-4c3d-bee3-dca3412414ec",
+    "data": [
+      {
+        "text": "on what basis admissions are given in reva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1c436a1-a68e-4655-ba31-cf4dad908cc8",
+    "data": [
+      {
+        "text": "admission in ",
+        "userDefined": false
+      },
+      {
+        "text": "reva university",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90684271-652a-4e03-8aa1-cd70a467959b",
+    "data": [
+      {
+        "text": "admission in reva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a49ebf1e-b053-4ae3-a348-fe3c000cad6a",
+    "data": [
+      {
+        "text": "admissions in ",
+        "userDefined": false
+      },
+      {
+        "text": "reva university",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "763c7767-0edf-4f80-9f09-df9e9bd7b358",
+    "data": [
+      {
+        "text": "on what basis admission are given in reva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c13a54e-386d-400d-b484-8471561e8850",
+    "data": [
+      {
+        "text": "on what basis admission are given in ",
+        "userDefined": false
+      },
+      {
+        "text": "reva",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " university",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81aac373-db59-4579-b86c-d6337b3ca70d",
+    "data": [
+      {
+        "text": "on what basis admissions are given in ",
+        "userDefined": false
+      },
+      {
+        "text": "reva university",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56807fdf-7cb6-4203-b319-c630a1605393",
+    "data": [
+      {
+        "text": "admissions in ",
+        "userDefined": false
+      },
+      {
+        "text": "reva",
+        "meta": "@sys.unit-information-name",
+        "alias": "unit-information-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcb3c00d-e8de-4d5a-a756-c23317682db9",
+    "data": [
+      {
+        "text": "How can we get admissions in ",
+        "userDefined": false
+      },
+      {
+        "text": "REVA",
+        "meta": "@sys.unit-information-name",
+        "alias": "unit-information-name",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

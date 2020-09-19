@@ -1,0 +1,9 @@
+{
+  "id": "cc42ada6-5ead-48b9-8c58-e4605c3afd79",
+  "name": "facultiesece",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

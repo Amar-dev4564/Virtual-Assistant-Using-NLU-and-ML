@@ -1,0 +1,35 @@
+{
+  "id": "f17e4b2d-6fc5-4cf9-a0f4-b2c19d539bcc",
+  "name": "Post graduate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Course available in post graduation are: number1.Mtech,  2.M B A ,  3.M C A ,  4.M com ,  5.M P A, 6.M A, 7.M S,  8.M S C, 9.L L M."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
